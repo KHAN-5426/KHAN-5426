@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mdmahmudkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdmahmudkhan/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mahmud123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mahmud123" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdkhanmahud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdkhanmahud" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@learn_by_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@learn_by_khan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mahmud123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mahmud123" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mdkhanmahud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdkhanmahud" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@learn_by_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@learn_by_khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
